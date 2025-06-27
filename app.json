@@ -63,7 +63,7 @@
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number in international format (e.g. 255752593977)",
+      "description": "Your WhatsApp number in international format (e.g. 254795653413)",
       "value": "",
       "required": true
     },
